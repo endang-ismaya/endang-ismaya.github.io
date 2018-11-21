@@ -1,2 +1,2 @@
 # endangismaya.github.io
-w2-project
+w1-project
