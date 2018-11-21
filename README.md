@@ -1,2 +1,2 @@
 # endangismaya.github.io
-Week 1 Project
+w2-project
